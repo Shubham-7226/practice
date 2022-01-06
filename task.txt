@@ -1,3 +1,4 @@
 adasdsadas 
 pull text
 push text
+check pull status
